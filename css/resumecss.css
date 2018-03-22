@@ -19,6 +19,11 @@ p
 
 }
 
+#nav-a ul {
+	margin: 0px;
+	padding: 0px;
+	list-style:none;
+	
 #nav-a ul li  {
 	float: left;
 	width: 200px;
