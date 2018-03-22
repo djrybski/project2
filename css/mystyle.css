@@ -17,7 +17,7 @@ ul li {
 	height: 40px;
 	background-color: black;
 	opacity: .8;
-	text-align: center;
+	text-align: left;
 	font-size: 20x;
 	justify-content: space-between;
 }
