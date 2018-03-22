@@ -15,8 +15,11 @@ h1 {
     justify-content: space-between;
   
   h3 {
-     -webkit-text-fill-color: LightCyan;
-   -webkit-text-stroke-width: 1px;
+      font-family: sans-serif;
+      text-transform: uppercase;
+      color: black;
+     -webkit-text-fill-color: white;
+     -webkit-text-stroke-width: 1px;
   
     
  
