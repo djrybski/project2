@@ -13,6 +13,12 @@ h1 {
    -webkit-text-fill-color: LightCyan;
    -webkit-text-stroke-width: 2px;
     justify-content: space-between;
+  
+  h3 {
+     -webkit-text-fill-color: LightCyan;
+   -webkit-text-stroke-width: 1px;
+  
+    
  
 }
 p
