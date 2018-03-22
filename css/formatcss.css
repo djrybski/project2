@@ -1,16 +1,18 @@
 body {
   margin: 0;
 }
- h1
-{
- position: absolute;
- font-family: sans-serif;
- text-transform: uppercase;
- margin: 0;
- padding: 0;
- color: #000;
- -webkit-text-fill-color: transparent;
- -webkit-text-stroke-width: 2px;
+ 
+h1 {
+   font-size:25em;
+   line-height:0.7em;
+   position: absolute;
+   font-family: sans-serif;
+   text-transform: uppercase;
+   margin: 0;
+   padding: 0;
+   color: #000;
+   -webkit-text-fill-color: transparent;
+   -webkit-text-stroke-width: 2px;
  
 }
 p
