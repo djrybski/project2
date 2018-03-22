@@ -14,12 +14,7 @@ p {
 }
 ul {
     border: 1px solid white;
-}
-
-li {
-    text-align: center;
-   
-}
+   }
 
 li:last-child {
     border-bottom: none;
