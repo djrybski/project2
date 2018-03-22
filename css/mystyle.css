@@ -1,7 +1,8 @@
 body {
 	background: url(../media-folder/bigtree.jpg) no-repeat;
 	background-size: cover;
-	
+	font-family: Aial;
+	color: white;
 }	
 
 ul {
@@ -15,7 +16,7 @@ ul li {
 	float: left;
 	width: 200px;
 	height: 40px;
-	background color: black;
+	background-color: black;
 	opacity: .8;
 	line-height; 40px;
 	text-align: center;
@@ -30,3 +31,4 @@ ul li a {
 ul li a:hover {
 	background-color: green;
 }
+
