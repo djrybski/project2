@@ -5,11 +5,14 @@ h1
 {
   font-size: x-large;
   margin: 0;
+  text-align: left;
 }
 p
 {
     display: block;
     margin-top: 1em;
+    background-color: navy;
+    opacity: .8;
     margin-bottom: 1em;
     margin-left: 0;
     margin-right: 0;
