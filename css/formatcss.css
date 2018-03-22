@@ -13,12 +13,12 @@ p {
     margin-right: 0;
 }
 ul {
-    border: 1px solid aqua;
+    border: 1px solid white;
 }
 
 li {
     text-align: center;
-    border-bottom: 1px solid black;
+   
 }
 
 li:last-child {
