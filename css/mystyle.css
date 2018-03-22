@@ -1,8 +1,8 @@
 body {
-	background-image: url("media-folder/bigtree.jpg");
+	background: url(../media-folder/bigtree.jpg) no-repeat;
 	background-size: cover;
 	
-	
+}	
 
 ul {
 	margin: 0px;
