@@ -5,13 +5,16 @@ h1
 {
   font-size: x-large;
   margin: 0;
+  background-color: black;
+  opacity: .8;
+  color: white;
   text-align: left;
 }
 p
 {
     display: block;
     margin-top: 1em;
-    background-color: LightSlateGray;
+    background-color: black;
     opacity: .8;
     margin-bottom: 1em;
     margin-left: 0;
