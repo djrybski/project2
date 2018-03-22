@@ -1,6 +1,7 @@
 
 body {
 	background: url(../media-folder/bigmount.jpeg) no-repeat;
+	background-attachment: fixed;
 	background-size: cover;
 	font-family: Arial;
 	color: white;
