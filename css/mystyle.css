@@ -1,10 +1,12 @@
 body {
 	background: url(../media-folder/bigmount.jpeg) no-repeat;
 	background-size: cover;
+	background-attachment: fixed;
 	font-family: Aial;
 	color: white;
 }	
 
+p
 ul {
 	margin: 0px;
 	padding: 0px;
