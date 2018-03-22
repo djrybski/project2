@@ -15,3 +15,32 @@ p
 li{
    list-style:square;
 }
+nav {
+  width: 100%;
+  background-color: grey;
+}
+  nav a {
+    display: block; 
+    
+ }
+  nav a:hover {
+  }
+  #logo {
+  }
+nav a {
+    display: block;
+    float: left;
+    font-family: sans-serif;
+    font-size: 9px;
+    color: white;
+    background-color: aqua;
+    border: 1px solid #000;
+
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+    text-decoration: none;
+}
+ 
