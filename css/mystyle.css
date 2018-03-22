@@ -5,16 +5,12 @@ body {
 	font-family: Arial;
 	color: white;
 }	
-
-	
-
 ul {
 	margin: 0px;
 	padding: 0px;
 	list-style:none;
 
 }
-
 ul li {
 	float: left;
 	width: 200px;
@@ -26,7 +22,6 @@ ul li {
 	font-size: 20x;
 	justify-content: space-between;
 }
-
 ul li a {
 	text-decoration: none;
 	color: white;
@@ -35,4 +30,11 @@ ul li a {
 ul li a:hover {
 	background-color: green;
 }
-
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
