@@ -1,10 +1,8 @@
-body {
-  margin: ;
-}
+
  
 h1 {
-   margin-top: 15px;
-   margin-bottom: 15px;
+   margin-top: 50px;
+   margin-bottom: 50 px;
    margin-right: 20px;
    margin-left: 20px;
    font-family: sans-serif;
@@ -20,12 +18,8 @@ h1 {
       color: black;
      -webkit-text-fill-color: white;
      -webkit-text-stroke-width: 1px;
-  
-    
- 
 }
-p
-{
+p {
     display: block;
     margin-top: 1em;
     background-color: black;
