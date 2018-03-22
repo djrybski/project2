@@ -14,7 +14,7 @@ p
 
 li{
    list-style:none;
-    text-align: center;
+
 }
 nav {
   width: 100%;
@@ -32,7 +32,7 @@ nav a {
     display: block;
     float: left;
     font-family: sans-serif;
-    font-size: 9px;
+    font-size: xx-large;
     color: white;
     background-color: black;
     border: 1px solid #000;
