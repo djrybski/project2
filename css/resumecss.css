@@ -3,6 +3,7 @@ body {
 	background: url(../media-folder/bigmount.jpeg) no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
+	background-color: rgba(248, 247, 216, 0.7);
 	font-family: Arial;
 	color: white;
 }
