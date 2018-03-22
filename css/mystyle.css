@@ -6,17 +6,18 @@ body {
 	color: white;
 }	
 ul {
-	margin: 0px;
-	padding: 0px;
+	
+	padding: 14px 16px;
 	list-style:none;
+	font-size: 17x;
 
 }
 ul li {
 	float: left;
+	text-align: center;
 	background-color: black;
 	opacity: .8;
-	text-align: center;
-	justify-content: space-between;
+
 }
 ul li a {
 	text-decoration: none;
