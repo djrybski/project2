@@ -10,14 +10,6 @@ h1 {
    color: #000;
    -webkit-text-fill-color: LightCyan;
    -webkit-text-stroke-width: 2px;
-    justify-content: space-between;
-  
-  h3 {
-      font-family: sans-serif;
-      text-transform: uppercase;
-      color: black;
-     -webkit-text-fill-color: white;
-     -webkit-text-stroke-width: 1px;
 }
 p {
     
