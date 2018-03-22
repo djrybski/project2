@@ -23,6 +23,8 @@ p {
 }
 ul {
     border: 1px solid white;
+    background-color: black;
+    opacity: .8;
    }
 
 li:last-child {
