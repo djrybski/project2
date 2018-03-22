@@ -20,13 +20,10 @@ h1 {
      -webkit-text-stroke-width: 1px;
 }
 p {
-    display: block;
-    margin-top: 1em;
+    
     background-color: black;
     opacity: .8;
-    margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 50;
+    
 }
 ul {
     border: 1px solid white;
