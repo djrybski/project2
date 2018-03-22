@@ -7,6 +7,10 @@ h1
     color: black;
     margin-left: 20px;
 }
+p 
+{
+    font-family: "Times New Roman", Lucida Console, serif;
+}
 
 li{
    list-style:square;
