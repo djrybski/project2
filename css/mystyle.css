@@ -1,5 +1,6 @@
 body {
 	background: url(‘media-folder/bigtree.jpg’) no-repeat;
+	background-image: url("media-folder/bigtree.jpg");
 	background-size: cover;
 	color:white;
 	
