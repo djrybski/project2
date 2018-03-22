@@ -10,6 +10,7 @@ h1 {
    color: #000;
    -webkit-text-fill-color: LightCyan;
    -webkit-text-stroke-width: 2px;
+   text-shadow: 2px 2px 5px black;
 }
 p {
     
