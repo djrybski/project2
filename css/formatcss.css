@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+h1 {
+  font-size: 15px;
+  margin: ;
+}
+p {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+}
+
