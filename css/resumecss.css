@@ -1,0 +1,48 @@
+body
+{
+    background-color: LightGray;
+}
+h1 
+{
+    color: black;
+    
+}
+p 
+{
+    font-family: "Times New Roman", Lucida Console, serif;
+}
+
+li{
+   list-style:none;
+   
+}
+nav {
+  width: 100%;
+  background-color: grey;
+}
+  nav a
+ {
+    display: block; 
+    
+ }
+  nav a:hover {
+  }
+ 
+nav a
+ {
+    display: block;
+    float: center;
+    font-family: sans-serif;
+    font-size: 9px;
+    color: white;
+    background-color: black;
+    border: 1px solid #000;
+
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+    text-decoration: none;
+}
+ 
