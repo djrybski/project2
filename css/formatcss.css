@@ -3,7 +3,7 @@ body {
 }
 h1 {
   font-size: x-large;
-  margin: ;
+  margin: 35;
 }
 p {
     display: block;
@@ -12,4 +12,15 @@ p {
     margin-left: 0;
     margin-right: 0;
 }
+ul {
+    border: 1px solid aqua;
+}
 
+li {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+li:last-child {
+    border-bottom: none;
+}
