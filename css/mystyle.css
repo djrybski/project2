@@ -7,14 +7,15 @@ body {
 }	
 
 
-ul {
-	margin: 0px;
-	padding: 0px;
-	list-style: none;
+#nav-b ul li 
+{
 
+	
+	
+	
 }
 
-ul li {
+#nav-a ul li  {
 	float: left;
 	width: 200px;
 	height: 40px;
@@ -25,12 +26,18 @@ ul li {
 	font-size: 20x;
 }
 
-ul li a {
+#nav-a ul li {
 	text-decoration: none;
 	color: white;
 	display: block;
 }
-ul li a:hover {
+#nav-a ul li :hover {
 	background-color: green;
 }
 
+#nav-a ul li  {
+	
+	margin: 0px;
+	padding: 0px;
+	list-style: circle;
+}
