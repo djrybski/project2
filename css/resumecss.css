@@ -19,12 +19,12 @@ p
 
 }
 
-#nav-a ul {
+ ul {
 	margin: 0px;
 	padding: 0px;
 	list-style:none;
 	
-#nav-a ul li  {
+ ul li  {
 	float: left;
 	width: 200px;
 	height: 40px;
@@ -35,16 +35,15 @@ p
 	font-size: 20x;
 }
 
-#nav-a ul li {
+ul li {
 	text-decoration: none;
 	color: white;
 	display: block;
 }
-#nav-a ul li :hover {
+ ul li :hover {
 	background-color: green;
 }
-
-#nav-b ul li  {
+ul li  {
 	
 	margin: 0px;
 	padding: 0px;
