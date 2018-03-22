@@ -3,12 +3,9 @@ body {
 }
  
 h1 {
-   line-height: 10mm;
-   position: absolute;
+   
    font-family: sans-serif;
    text-transform: uppercase;
-   margin: 0;
-   padding: 0;
    color: #000;
    -webkit-text-fill-color: transparent;
    -webkit-text-stroke-width: 2px;
