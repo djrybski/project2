@@ -7,7 +7,7 @@ h1 {
    font-family: sans-serif;
    text-transform: uppercase;
    color: #000;
-   -webkit-text-fill-color: transparent;
+   -webkit-text-fill-color: LightCyan;
    -webkit-text-stroke-width: 2px;
     justify-content: space-between;
  
