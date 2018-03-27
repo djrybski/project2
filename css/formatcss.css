@@ -16,7 +16,12 @@ h1 {
   
 }
 h3 {
-    text-shadow: 2px 2px 5px black;
+   color: LightCyan;
+   text-shadow:
+   2px -2px 0 black,
+   2px -2px 0 black,
+  -2px 2px 0 black,
+   2px 2px 0 black;
 }
 p {
     
