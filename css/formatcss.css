@@ -1,0 +1,39 @@
+
+ 
+h1 {
+   margin-top: 50px;
+   margin-bottom: 50px;
+   margin-right: 20px;
+   margin-left: 20px;
+   font-family: sans-serif;
+   text-transform: uppercase;
+   color: #000;
+   text-shadow:
+  -2px -2px 0 LightCyan,
+   2px -2px 0 LightCyan,
+  -2px 2px 0 LightCyan,
+   2px 2px 0 LightCyan;
+  
+}
+h3 {
+   color: LightCyan;
+   text-shadow:
+   2px -2px 0 black,
+   2px -2px 0 black,
+  -2px 2px 0 black,
+   2px 2px 0 black;
+}
+p {
+    
+    background-color: black;
+    opacity: .8;
+    
+}
+ul {
+    background-color: black;
+    opacity: .8;
+   }
+
+li:last-child {
+    border-bottom: none;
+}
