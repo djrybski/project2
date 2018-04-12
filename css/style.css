@@ -1,3 +1,12 @@
+
+body {
+	background: url(../media-folder/bigmount.jpeg) no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: rgba(248, 247, 216, 0.7);
+	font-family: Arial;
+	color: white;
+}
 p {
     font-family: "Times New Roman", Lucida Console, serif;
 }
@@ -80,29 +89,6 @@ body {
 	font-family: Arial;
 	color: white;
 }	
-ul {
-	margin: 0px;
-	padding: 0px;
-	list-style:none;
-
-}
-ul li {
-	float: left;
-	width: 100%;
-	height: 40px;
-	background-color: black;
-	opacity: .8;
-	text-align: center;
-	justify-content: space-between;
-}
-ul li a {
-	text-decoration: none;
-	color: white;
-	display: block;
-}
-ul li a:hover {
-	background-color: green;
-}
 img {
     opacity: 0.8;
     filter: alpha(opacity=50);
